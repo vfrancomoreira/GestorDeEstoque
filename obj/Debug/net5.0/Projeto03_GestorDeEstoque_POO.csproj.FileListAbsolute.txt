@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\bin\Debug\net5.0\Projeto03_GestorDeEstoque_POO.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\bin\Debug\net5.0\Projeto03_GestorDeEstoque_POO.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\bin\Debug\net5.0\Projeto03_GestorDeEstoque_POO.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\bin\Debug\net5.0\Projeto03_GestorDeEstoque_POO.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\bin\Debug\net5.0\Projeto03_GestorDeEstoque_POO.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\bin\Debug\net5.0\ref\Projeto03_GestorDeEstoque_POO.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\bin\Debug\net5.0\Projeto03_GestorDeEstoque_POO.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\Projeto03_GestorDeEstoque_POO.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\Projeto03_GestorDeEstoque_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\Projeto03_GestorDeEstoque_POO.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\Projeto03_GestorDeEstoque_POO.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\Projeto03_GestorDeEstoque_POO.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\Projeto03_GestorDeEstoque_POO.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\ref\Projeto03_GestorDeEstoque_POO.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\Projeto03_GestorDeEstoque_POO.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Estudo_das_linguagens\CSharp\Projeto03_GestorDeEstoque_POO\obj\Debug\net5.0\Projeto03_GestorDeEstoque_POO.genruntimeconfig.cache
